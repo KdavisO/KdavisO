@@ -72,7 +72,7 @@ gantt
     Nichigas アプリ+コーポレートサイト            :2021-01, 2021-12
     Recruit LP                                :2022-01, 2022-12
     SupremeSystem BtoBアプリ                   :2022-01, 2022-12
-    日本テレビ CM platform                     :active, 2023-01, 2026-03
+    日本テレビ CM platform                     :active, 2022-06, 2026-03
     某金融系 AI分析 LaaS                       :2023-01, 2023-12
     NTT docomo コーポレートサイト               :2023-01, 2023-12
     某広告配信サービス                          :2024-01, 2024-12
@@ -94,7 +94,7 @@ gantt
 | 2022.04 - | Security 診断 SaaS (3-shake) | Engineer → 技術顧問 | Go + Firebase + Next.js でセキュリティ診断 SaaS 開発 |
 | 2023 | NTT docomo (gpaw) | FrontEngineer | コーポレートサイトのフロントエンド開発 |
 | 2023 | 某金融系 AI 分析 LaaS (gpaw) | Engineer | AI 分析プラットフォーム開発 |
-| 2023 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
+| 2022.06 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
 | 2022 | SupremeSystem (gpaw) | Engineer | BtoB アプリ開発 (Java + Vue3 + Element Plus) |
 | 2022 | Recruit LP (gpaw) | Engineer | [LP 開発](https://www.recruit-productdesign.jp/) (AWS + Next.js) |
 | 2022 | HR 系 SaaS | Engineer | Go + Firebase + Next.js |
