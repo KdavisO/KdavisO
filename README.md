@@ -8,13 +8,13 @@
   大畠 康佑 / Kosuke Davis Ohata / でび
 </h1>
 
+<p style="font-size: sm">
+  1987.06.17 (38歳)
+</p>
+
 <p>
   フロントエンド開発が好きなWebエンジニアです。<br>
   マネジメントもやるお年頃です。
-</p>
-
-<p style="font-size: sm">
-  1987.06.17
 </p>
 
 ---
