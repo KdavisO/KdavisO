@@ -9,7 +9,7 @@
 </h1>
 
 <p>
-  1987.06.17 (<!-- AGE_START -->38<!-- AGE_END -->歳)
+  兼業主夫 / 1987.06.17 (<!-- AGE_START -->38<!-- AGE_END -->歳)
   &nbsp;
   <a href="mailto:kosuke.ohata2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/daviszone23"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
@@ -36,7 +36,7 @@ AIを活用した相談サービス、「[だいじょうぶ。](https://daijobu
 
 - 「正解・効率に拘らない」を心がけています。<strong>立場や状況でいろいろありますよね</strong>
 - 終わった時に**良い案件だったと言える / 言ってもらえる**開発体験を大切にしています
-- 2児の父 / 兼業主夫 / ハウスダンス歴 10年ちょっと / ロボットアニメ好き（ガンダム・マジンガーZ）
+- ハウスダンス歴 10年ちょっと / ロボットアニメ好き（ガンダム・マジンガーZ）
   - 「軽そうなダンス」と「暗そうなアニメ」で、印象が打ち消しあってくれるといいなぁと思っています
 
 <a href="https://note.com/gp_anywhere/n/n25dc4a50c04d">
