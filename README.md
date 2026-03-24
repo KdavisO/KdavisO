@@ -8,8 +8,12 @@
   大畠 康佑 / Kosuke Davis Ohata / でび
 </h1>
 
-<p style="font-size: sm">
+<p>
   1987.06.17 (<!-- AGE_START -->38<!-- AGE_END -->歳)
+  &nbsp;
+  <a href="mailto:kosuke.ohata2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/daviszone23"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.wantedly.com/id/kosuke_davis_ohata"><img src="https://img.shields.io/badge/-Wantedly-21BDDB?style=flat-square&logo=wantedly&logoColor=white" alt="Wantedly" /></a>
 </p>
 
 <p>
@@ -122,18 +126,3 @@ AI Agent との協業を前提とした開発フローの構築にも取り組�
 - **テックコーチング・スクラムマスター** — チーム・組織の底上げ
 - **デザイン・動画制作** — Illustrator / After Effects を用いた実印刷デザイン・動画制作
 
----
-
-## 📬 連絡先 / Contact
-
-<p>
-  <a href="mailto:kosuke.ohata2@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/daviszone23">
-    <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.wantedly.com/id/kosuke_davis_ohata">
-    <img src="https://img.shields.io/badge/-Wantedly-21BDDB?style=flat-square&logo=wantedly&logoColor=white" alt="Wantedly" />
-  </a>
-</p>
