@@ -23,9 +23,9 @@
 
 ---
 
-## 🧑‍💻 自己紹介 / Who am I
+## 🧑‍💻 My theme.
 
-**🎯 テーマ: 感情や体調に左右されない開発環境の構築**
+**🎯 感情や体調に左右されない開発環境の構築**
 
 計画と自動化。シングルスレッドによる並列処理。
 負荷を減らして、多面で稼働できる生活を目指しています。
@@ -33,7 +33,6 @@
 2024 年から AI を活用した開発を本格的にスタート、日々研鑽中です。<br>
 AIを活用した相談サービス、「[だいじょうぶ。](https://daijobu-beta.vercel.app/)」を開発中です。
 
-- フロントエンド開発をコアスキルに、技術顧問・テックリード・エンジニアリングマネジメントまで対応
 - 「正解・効率に拘らない」を心がけています。<strong>立場や状況でいろいろありますよね</strong>
 - 終わった時に**良い案件だったと言える / 言ってもらえる**開発体験を大切にしています
 - 2児の父 / 兼業主夫 / ハウスダンス歴 10年ちょっと / ロボットアニメ好き（ガンダム・マジンガーZ）
@@ -48,7 +47,7 @@ AIを活用した相談サービス、「[だいじょうぶ。](https://daijobu
 
 ---
 
-## 📂 経歴 / What I have done
+## 📂 What I have done.
 
 <!-- 経歴を更新する場合は、Mermaid の gantt 記法で行を追加・編集してください -->
 <!-- dateFormat は YYYY-MM、終了日が現在まで続く場合は 2026-03 等の未来日を指定 -->
@@ -112,7 +111,7 @@ gantt
 
 ---
 
-## 💼 できること / What can I do
+## 💼 What I can do.
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
