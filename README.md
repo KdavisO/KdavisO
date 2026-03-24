@@ -13,6 +13,7 @@
   &nbsp;
   <a href="mailto:kosuke.ohata2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/daviszone23"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.facebook.com/kosuke.ohata.3/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.wantedly.com/id/kosuke_davis_ohata"><img src="https://img.shields.io/badge/-Wantedly-21BDDB?style=flat-square&logo=wantedly&logoColor=white" alt="Wantedly" /></a>
 </p>
 
