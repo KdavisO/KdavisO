@@ -1,0 +1,40 @@
+name: Update age in README
+
+on:
+  schedule:
+    # 毎年 6/17（誕生日）の 00:00 UTC に実行
+    - cron: '0 0 17 6 *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate age and update README
+        run: |
+          BIRTH="1987-06-17"
+          TODAY=$(date +%Y-%m-%d)
+          BIRTH_Y=$(echo "$BIRTH" | cut -d- -f1)
+          BIRTH_MD=$(echo "$BIRTH" | cut -d- -f2-3 | tr -d -)
+          TODAY_Y=$(echo "$TODAY" | cut -d- -f1)
+          TODAY_MD=$(echo "$TODAY" | cut -d- -f2-3 | tr -d -)
+
+          AGE=$((TODAY_Y - BIRTH_Y))
+          if [ "$TODAY_MD" -lt "$BIRTH_MD" ]; then
+            AGE=$((AGE - 1))
+          fi
+
+          sed -i "s/<!-- AGE_START -->.*<!-- AGE_END -->/<!-- AGE_START -->${AGE}<!-- AGE_END -->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update age to $(date +%Y) birthday"
+          git push
