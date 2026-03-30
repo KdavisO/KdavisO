@@ -9,7 +9,7 @@
 </h1>
 
 <p>
-  兼業主夫 / 1987.06.17 (<!-- AGE_START -->38<!-- AGE_END -->歳)
+  LittleBetter.Dev代表 / 兼業主夫 / 1987.06.17 (<!-- AGE_START -->38<!-- AGE_END -->歳)
   &nbsp;
   <a href="mailto:kosuke.ohata2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/daviszone23"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
