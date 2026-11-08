@@ -87,7 +87,7 @@ gantt
 
 | 期間 | 企業・プロジェクト | 役割 | 概要 |
 | --- | --- | --- | --- |
-| 2026.09 - | SEKEYレビュー | ProjectManager / Engineer | [図面比較レビューツール](https://products.sint.co.jp/sekey)(RAG) |
+| 2026.09 - | System Integrator 図面比較レビューツール | ProjectManager / Engineer | [SEKEYレビュー](https://products.sint.co.jp/sekey)(RAG) |
 | 2022.06 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
 | 2019.07 - | GoodPatch Anywhere | TechLead / FrontEngineer | 複数 Web 案件の技術選定・要件定義・フロントエンド実装 |
 | 2024 | 某 PMS SaaS | 技術顧問 | 内製化支援 |
