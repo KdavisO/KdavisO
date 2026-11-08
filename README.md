@@ -73,11 +73,11 @@ gantt
     某金融系 AI分析 LaaS                       :2023-01, 2023-12
     NTT docomo コーポレートサイト               :2023-01, 2023-12
     某広告配信サービス                          :2024-01, 2024-12
+    SEKEYレビュー (ProjectManager / Engineer)  :active, 2026-09, 2027-03
 
     section その他
     HR系 SaaS                                 :2022-01, 2022-12
     某 PMS SaaS (技術顧問)                     :2024-01, 2024-12
-    SEKEYレビュー (ProjectManager / Engineer)  :active, 2026-09, 2027-03
 ```
 
 <details>
@@ -87,7 +87,7 @@ gantt
 
 | 期間 | 企業・プロジェクト | 役割 | 概要 |
 | --- | --- | --- | --- |
-| 2026.09 - | SEKEYレビュー | ProjectManager / Engineer | [図面比較レビューツール](https://products.sint.co.jp/sekey) |
+| 2026.09 - | SEKEYレビュー | ProjectManager / Engineer | [図面比較レビューツール](https://products.sint.co.jp/sekey)(RAG) |
 | 2022.06 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
 | 2019.07 - | GoodPatch Anywhere | TechLead / FrontEngineer | 複数 Web 案件の技術選定・要件定義・フロントエンド実装 |
 | 2024 | 某 PMS SaaS | 技術顧問 | 内製化支援 |
