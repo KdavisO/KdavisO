@@ -61,15 +61,15 @@ gantt
     ぐるなび (LeadFrontEngineer)               :2018-04, 2019-06
     ラクスル (LeadFrontEngineer)               :2018-07, 2020-05
     Sony (Engineer / Designer)                :2019-06, 2021-05
-    GoodPatch Anywhere (TechLead)             :active, 2019-07, 2026-03
-    3-shake Security SaaS (Engineer→技術顧問)  :active, 2022-04, 2026-03
+    GoodPatch Anywhere (TechLead)             :active, 2019-07, 2027-03
+    3-shake Security SaaS (Engineer→技術顧問)  :2022-04, 2025-04
 
     section GoodPatch Anywhere 案件
     DigitalGarage コーポレートサイト             :2021-01, 2021-12
     Nichigas アプリ+コーポレートサイト            :2021-01, 2021-12
     Recruit LP                                :2022-01, 2022-12
     SupremeSystem BtoBアプリ                   :2022-01, 2022-12
-    日本テレビ CM platform                     :active, 2022-06, 2026-03
+    日本テレビ CM platform                     :active, 2022-06, 2027-03
     某金融系 AI分析 LaaS                       :2023-01, 2023-12
     NTT docomo コーポレートサイト               :2023-01, 2023-12
     某広告配信サービス                          :2024-01, 2024-12
@@ -77,6 +77,7 @@ gantt
     section その他
     HR系 SaaS                                 :2022-01, 2022-12
     某 PMS SaaS (技術顧問)                     :2024-01, 2024-12
+    SEKEYレビュー (ProjectManager / Engineer)  :active, 2026-09, 2027-03
 ```
 
 <details>
@@ -86,18 +87,19 @@ gantt
 
 | 期間 | 企業・プロジェクト | 役割 | 概要 |
 | --- | --- | --- | --- |
+| 2026.09 - | SEKEYレビュー | ProjectManager / Engineer | [図面比較レビューツール](https://products.sint.co.jp/sekey) |
+| 2022.06 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
+| 2019.07 - | GoodPatch Anywhere | TechLead / FrontEngineer | 複数 Web 案件の技術選定・要件定義・フロントエンド実装 |
 | 2024 | 某 PMS SaaS | 技術顧問 | 内製化支援 |
 | 2024 | 某広告配信サービス (gpaw) | Engineer | 広告配信サービスの開発 |
-| 2022.04 - | Security 診断 SaaS (3-shake) | Engineer → 技術顧問 | Go + Firebase + Next.js でセキュリティ診断 SaaS 開発 |
+| 2022.04 - 2025.04 | Security 診断 SaaS (3-shake) | Engineer → 技術顧問 | Go + Firebase + Next.js でセキュリティ診断 SaaS 開発 |
 | 2023 | NTT docomo (gpaw) | FrontEngineer | コーポレートサイトのフロントエンド開発 |
 | 2023 | 某金融系 AI 分析 LaaS (gpaw) | Engineer | AI 分析プラットフォーム開発 |
-| 2022.06 - | 日本テレビ CM platform (gpaw) | ProjectManager / Engineer | [スグリー](https://sgr-service.ntv.co.jp/) |
 | 2022 | SupremeSystem (gpaw) | Engineer | BtoB アプリ開発 (Java + Vue3 + Element Plus) |
 | 2022 | Recruit LP (gpaw) | Engineer | [LP 開発](https://www.recruit-productdesign.jp/) (AWS + Next.js) |
 | 2022 | HR 系 SaaS | Engineer | Go + Firebase + Next.js |
 | 2021 | DigitalGarage (gpaw) | Engineer | コーポレートサイト開発 (PHP + Vue.js) |
 | 2021 | Nichigas (gpaw) | Engineer | アプリ + コーポレートサイト開発 (Go + AWS Lambda + Vue.js) |
-| 2019.07 - | GoodPatch Anywhere | TechLead / FrontEngineer | 複数 Web 案件の技術選定・要件定義・フロントエンド実装 |
 | 2019.06 - 2021.05 | Sony | Engineer / Designer | Flask + AWS でコールセンター Q&A の AI 化 |
 | 2018.07 - 2020.05 | ラクスル | LeadFrontEngineer | Vue.js + Rails で複数サービス設計・開発（駅バリ広告 EC / TVCM EC / 配送 SaaS） |
 | 2018.04 - 2019.06 | ぐるなび | LeadFrontEngineer | Vue.js でフロントエンド開発（管理画面 / 外国語版 / 台帳サービス） |
